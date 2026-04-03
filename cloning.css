@@ -64,6 +64,7 @@ box-sizing: border-box;
     width: 100%;
     height: auto;
     display: block
+    z-index: 1;
 }
 
 .gallery-img{
