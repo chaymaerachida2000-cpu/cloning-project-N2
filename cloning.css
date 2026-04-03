@@ -13,7 +13,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.8); /* Loun k7al transparent bach i-ban */
+    background-color: pink; /* Loun k7al transparent bach i-ban */
     z-index: 9999;      /* Bach i-koun foq t-tsswira nichan */
 }
 #home {
