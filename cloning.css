@@ -82,6 +82,8 @@ box-sizing: border-box;
     transform: translate(-50%, -50%);
     text-align: center;
     text-decoration-color: honeydew;
+    z-index: 10; /* Hada houwa li k-i-talla3 l-ktaba l-l-foug */
+    width: 90%;
 }
 .title{
     background-color:transparent;
