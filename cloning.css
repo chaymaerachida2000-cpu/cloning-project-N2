@@ -8,7 +8,20 @@
 .hamburger {
     display: none; /* Khbih dima f l-PC */
 }
-
+.banair-container {
+    position: fixed;    /* Bach i-bqa dima l-foug wakha t-habti l-ta7t */
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Loun k7al transparent bach i-ban */
+    z-index: 9999;      /* Bach i-koun foq t-tsswira nichan */
+}
+#home {
+    padding-top: 80px; /* Hada darouri bach l-menu fixed may-ghatich 3la l-ktaba */
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
 .flex-container {
     display: flex;
     list-style: none;
