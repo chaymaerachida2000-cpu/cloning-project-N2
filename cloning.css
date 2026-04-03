@@ -43,6 +43,9 @@ hamburger {
         display: block;
     }
 }
+ .flex-container {
+        display: flex;    
+    }
 .flex-item{
     
     text-align: left;
