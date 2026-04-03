@@ -3,12 +3,13 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-hamburger {
+.hamburger {
     display: none; /* Khbih f l-PC */
 }
 
 .flex-container {
-    display: flex; /* Menu l-kbir i-ban f l-PC */
+    display: flex;
+    list-style: none;/* Menu l-kbir i-ban f l-PC */
 }
 
 
@@ -43,9 +44,7 @@ hamburger {
         display: block;
     }
 }
- .flex-container {
-        display: flex;    
-    }
+
 .flex-item{
     
     text-align: left;
